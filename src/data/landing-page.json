@@ -1,0 +1,46 @@
+{
+    "homePage": {
+        "title": "We care about your health",
+        "content": "Hospitals can schedule and manage camps through the platform, including assigning medical staff, scheduling appointments via Google Meet, and managing patient data.",
+        "buttonTitle": "Create Camp",
+        "image": "/src/assets/healthcare.svg"
+    },
+
+    "ourDoctors": {
+        "title": "Our Doctors",
+        "buttonTitle": "Add Doctors",
+        "doctors": [
+            {
+                "name": "Dr. Rakesh Singh",
+                "designation": "Cardiologist",
+                "experience": "12 yrs",
+                "campsOrganized": "7+",
+                "image": "/src/assets/dr1.png"
+            },
+
+            {
+                "name": "Dr. Rakesh Singh",
+                "designation": "Cardiologist",
+                "experience": "12 yrs",
+                "campsOrganized": "7+",
+                "image": "/src/assets/dr1.png"
+            },
+
+            {
+                "name": "Dr. Rakesh Singh",
+                "designation": "Cardiologist",
+                "experience": "12 yrs",
+                "campsOrganized": "7+",
+                "image": "/src/assets/dr1.png"
+            },
+
+            {
+                "name": "Dr. Rakesh Singh",
+                "designation": "Cardiologist",
+                "experience": "12 yrs",
+                "campsOrganized": "7+",
+                "image": "/src/assets/dr1.png"
+            }
+        ]
+    }
+}
