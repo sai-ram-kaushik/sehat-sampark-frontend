@@ -1,9 +1,85 @@
 {
     "homePage": {
-        "title": "We care about your health",
-        "content": "Hospitals can schedule and manage camps through the platform, including assigning medical staff, scheduling appointments via Google Meet, and managing patient data.",
+        "content": [
+            { "label": "Active Patients", "count": "50+" },
+            { "label": "Active Camps", "count": "50+" },
+            { "label": "Available Doctors", "count": "50+" },
+            { "label": "Available Staffs", "count": "50+" }
+        ]
+    },
+
+    "camps": {
+        "title": "Camps",
         "buttonTitle": "Create Camp",
-        "image": "/src/assets/healthcare.svg"
+        "camps": [
+            {
+                "campTheme": "Early Detection Saves Lives - Breast Cancer Awareness",
+                "campCategory": "Health",
+                "diseaseFocus": "Breast cancer",
+                "venue": "Puth Khurd",
+                "date": "5 March, 2024",
+                "timePeriod": "9 - 10.30AM",
+                "awareness": "SMS",
+                "age": "20-30",
+                "experitice": "Oncologist",
+                "assignedDoctors": "Dr. Pretti",
+                "assignedNurse": "Neha",
+                "Prerequisists": "Light Breakfast & Wear Comfortable Clothing",
+                "capacity": "100",
+                "image": "/src/assets/test.jpg"
+            },
+
+            {
+                "campTheme": "Early Detection Saves Lives - Breast Cancer Awareness",
+                "campCategory": "Health",
+                "diseaseFocus": "Breast cancer",
+                "venue": "Puth Khurd",
+                "date": "5 March, 2024",
+                "timePeriod": "9 - 10.30AM",
+                "awareness": "SMS",
+                "age": "20-30",
+                "experitice": "Oncologist",
+                "assignedDoctors": "Dr. Pretti",
+                "assignedNurse": "Neha",
+                "Prerequisists": "Light Breakfast & Wear Comfortable Clothing",
+                "capacity": "100",
+                "image": "/src/assets/test.jpg"
+            },
+
+            {
+                "campTheme": "Early Detection Saves Lives - Breast Cancer Awareness",
+                "campCategory": "Health",
+                "diseaseFocus": "Breast cancer",
+                "venue": "Puth Khurd",
+                "date": "5 March, 2024",
+                "timePeriod": "9 - 10.30AM",
+                "awareness": "SMS",
+                "age": "20-30",
+                "experitice": "Oncologist",
+                "assignedDoctors": "Dr. Pretti",
+                "assignedNurse": "Neha",
+                "Prerequisists": "Light Breakfast & Wear Comfortable Clothing",
+                "capacity": "100",
+                "image": "/src/assets/test.jpg"
+            },
+
+            {
+                "campTheme": "Early Detection Saves Lives - Breast Cancer Awareness",
+                "campCategory": "Health",
+                "diseaseFocus": "Breast cancer",
+                "venue": "Puth Khurd",
+                "date": "5 March, 2024",
+                "timePeriod": "9 - 10.30AM",
+                "awareness": "SMS",
+                "age": "20-30",
+                "experitice": "Oncologist",
+                "assignedDoctors": "Dr. Pretti",
+                "assignedNurse": "Neha",
+                "Prerequisists": "Light Breakfast & Wear Comfortable Clothing",
+                "capacity": "100",
+                "image": "/src/assets/test.jpg"
+            }
+        ]
     },
 
     "ourDoctors": {

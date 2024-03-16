@@ -41,6 +41,10 @@ html {
     span {
         @apply text-secondary;
     }
+
+    input {
+        @apply p-3 bg-transparent border border-secondary rounded-xl outline-none;
+    }
 }
 
 ::-webkit-scrollbar {
