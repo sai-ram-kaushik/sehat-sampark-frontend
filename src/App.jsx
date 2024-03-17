@@ -7,6 +7,7 @@ import CreateCamp from "./ui/CreateCamp";
 import CreatStaff from "./ui/CreateStaff";
 import DoctorForm from "./ui/DoctorForm";
 import UserForm from "./ui/UserForm";
+import Nurse from './ui/Nurse'
 function App() {
   return (
     <BrowserRouter>
@@ -17,6 +18,7 @@ function App() {
         <Route path="/doctor-form" element={<DoctorForm />} />
         <Route path="/staff-create" element={<CreatStaff />} />
         <Route path="/user" element={<UserForm />} />
+        <Route path="/nurse" element={<Nurse />} />
       </Routes>
       <Footer />
     </BrowserRouter>
