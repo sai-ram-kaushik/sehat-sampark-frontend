@@ -45,6 +45,10 @@ html {
     input {
         @apply p-3 bg-transparent border border-secondary rounded-xl outline-none;
     }
+
+    textarea {
+        @apply p-3 bg-transparent border border-secondary rounded-xl outline-none;
+    }
 }
 
 ::-webkit-scrollbar {
